@@ -1,0 +1,5 @@
+client_secret_*.json
+token.json
+authorize_gmail.py
+.env
+__pycache__/
