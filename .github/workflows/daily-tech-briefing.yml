@@ -29,3 +29,4 @@ jobs:
           GMAIL_REFRESH_TOKEN: ${{ secrets.GMAIL_REFRESH_TOKEN }}
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
         run: python src/send_brief.py
+        # Gmail API daily briefing
